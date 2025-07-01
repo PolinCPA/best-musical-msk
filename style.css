@@ -1,0 +1,21 @@
+body {background:#141414 url(bg.jpg) repeat-x top ;font-size:10pt;font-family:Verdana; margin:0; color:white}
+
+a {color:#efefef;text-decoration:none;border-bottom: 1px dashed #dedede}
+a:hover {color:#ffffff;text-decoration:none;border-bottom: 1px solid #ffffff}
+
+h2 {font-family:Georgia;font-size:12pt}
+
+.box1 {background:#020202;border-bottom:9px solid #303030; width:960px; text-align:right;}
+
+.box1 a {color:#efefef;font-weight:bold;padding:10px;text-decoration:none;}
+.box1 a:hover {color:#ffffff;font-weight:bold;padding:10px;text-decoration:none;}
+
+
+.tone1 {padding:7px;}
+
+.name1 {float:left;font-size:20pt;font-family:Georgia;padding-left:10px; text-align:left;}
+
+.box2 {background:#000000; width:960px; text-align:left;}
+
+
+.box3 {background:#020202;border-top:9px solid #303030; width:960px; text-align:left;}
